@@ -24,17 +24,38 @@ def suggest_hotels(destination: str) -> str:
     return f"""
 🏨 **Top Hotel Picks in {destination.title()}**
 
-**Luxury & Upscale**  
-- [Hotel One] – 5-star beachfront resort with spa and private pool  
-- [Hotel Two] – Clifftop villa with infinity pool and panoramic views
+**Ultimate Luxury Retreats**  
+- Mandapa, a Ritz‑Carlton Reserve – Exceptional resort with lush surroundings  
+- The Mulia – Luxurious Nusa Dua beachfront resort with exquisite service  
+- The Ritz‑Carlton, Bali – Elegant luxury with beachfront access  
+- Four Seasons Resort Bali at Jimbaran Bay – Iconic luxury and privacy  
+- The Apurva Kempinski Bali – Cliffside indulgence with aquarium-themed dining
 
-**Mid-Range & Boutique**  
-- [Hotel Three] – Cozy boutique stay near downtown  
-- [Hotel Four] – Family-friendly resort with included breakfast
+**Wellness & Nature-Immersed Escapes**  
+- COMO Shambhala Estate – Serene wellness retreat in Ubud jungle  
+- Capella Ubud – Tented luxury with immersive nature experience  
+- Buahan – Boutique, open-air design near Ubud blending indoors and outdoors
 
-**Budget-Friendly**  
-- [Hotel Five] – Clean and comfy, great reviews, ~USD 40–60/night  
-- [Hostel Six] – Social vibe with shared dorms and events
+**Trendy Beachfront & Design-Focused Stays**  
+- Potato Head Suites & Studios, Seminyak – Eco-conscious design and vibrant nightlife  
+- W Bali – Seminyak – Energetic oceanfront with upscale dining and beach bars
 
-💡 *Note*: Most hotels offer free cancellation. Book early for peak seasons!
+**Boutique & Mid-Range Options**  
+- Viceroy Bali, Ubud – Private villas, spa, and river views  
+- Hotel Tugu Bali, Canggu – Historical charm and Balinese aesthetics  
+- Nadi Nature Resort – Budget stay with nature focus  
+- Maua Nusa Penida – Affordable guesthouse with island access  
+- Mathis Lodge Amed – Budget beachfront lodging  
+- The Royal Purnama – Mid-range beachfront resort  
+- The Bohemian Bali – Budget boutique vibe
+
+**All-Inclusive Convenience**  
+- The Melia Bali, Nusa Dua – Family-friendly all-inclusive resort  
+- Samabe Bali Suites & Villas – Luxury all-inclusive with spa and kids’ club  
+- Grand Mirage Resort & Thalasso – Beach resort with all amenities  
+- Club Med Bali – Comprehensive all-inclusive experience  
+- Spa Village Resort – Wellness-focused all-inclusive retreat  
+- Escape Haven – Relaxing all-inclusive beachfront stay
+
+💡 *Note*: Many Bali hotels offer free cancellation and peak season bookings fill fast!
     """
